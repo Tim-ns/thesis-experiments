@@ -1,0 +1,8 @@
+dependencies
+__pycache__*
+
+dreambooth/google_dreambooth
+dreambooth/results
+dreambooth/class_refs.tar.gz
+ttt-lm/logs
+wandb
