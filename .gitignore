@@ -6,3 +6,6 @@ dreambooth/results
 dreambooth/class_refs.tar.gz
 ttt-lm/logs
 wandb
+.env
+dreambooth/scripts/inference_cpu.sh
+dreambooth/inference_pipeline.py
